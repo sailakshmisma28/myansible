@@ -1,0 +1,23 @@
+---
+- students:
+- name: madhu
+  phono: 7878787878
+  address: 
+    doorno: 67
+    streetno: 2
+    pincode: 12345
+
+
+- name: haswanth
+  phono: 7878787878
+  address: 
+    doorno: 67
+    streetno: 2
+    pincode: 12345
+
+- name: eshwar
+  phono: 7878787878
+  address: 
+     doorno: 67
+     streetno: 2
+     pincode:  12345

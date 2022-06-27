@@ -1,0 +1,19 @@
+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
+
+
+
+
+
+echo "# myansible" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+
+Set your username: git config --global user.name "druthi"
+Set your email address: git config --global user.email "sailakshmisma28@gmail.com"
+
+git branch -M main
+git remote add origin https://github.com/sailakshmisma28/myansible.git
+git push -u origin main
+
+
